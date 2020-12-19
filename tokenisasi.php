@@ -33,7 +33,7 @@ $frek = array_count_values($terms);
 
 $no=1;
 foreach ($terms as $key => $val){
-$insert = "insert into token values ('$id1', '$no', '0', '$val', $frek[$val]);";
+$insert = "insert into token values ('$id1','$no','0','$val','1');";
 $insert_query = mysqli_query($koneksi,$insert);	
 $no++;
 }

@@ -10,10 +10,12 @@ h2 {
 </style>
 </head>
 <body>
-<h2 align=center><br>Sistem Temu Kembali Informasi<br><br></h2>
+<h2 align=center><br>Sistem Temu Kembali Informasi<br>
+    Tema Revolusi Industri 4.0 Menggunakan Algoritma Cosine Similarity
+    <br><br></h2>
 <hr>
 <div align=center>
-| <a href="koneksi.php">Koneksi</a> |
+<a href="koneksi.php">Koneksi</a> |
 <a href="buatberita.php">Buat Dokumen</a> |
 <a href="lihatberita.php">Lihat Dokumen</a> |
 <a href="lowercase.php">Lower Case Dokumen</a> |
@@ -23,10 +25,18 @@ h2 {
 <a href="datastopword.php">Data Stopword</a> |
 <a href="prosesstopword.php">Proses Stopword</a> |
 <a href="prosesstemming.php">Proses Stemming</a> |
-<a href="hitungfrekuensi.php">Hitung Frekuensi Kata</a> |
 <a href="tf.php">Term Frequency</a> |
 <a href="idf.php">Invers Document Frequency</a> |
 <a href="tfidf.php">TF.IDF</a> |
+<a href="search.php">Tfidf1</a> |
+<a href="search1.php">Tfidf2</a> |
+<a href="search2.php">Tfidf3</a> |
+<a href="searchjaccard1.php">Jaccard1</a> |
+<a href="searchjaccard2.php">Jaccard2</a> |
+<a href="searchjaccard3.php">Jaccard3</a> |
+<a href="searchcosine1.php">Cosine1</a> |
+<a href="searchcosine2.php">Cosine2</a> |
+<a href="searchcosine3.php">Cosine3</a> |
 </div>
 <hr/>
 </body>
